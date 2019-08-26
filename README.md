@@ -1,4 +1,4 @@
-## Uptobox-Client
+# Uptobox-Client
 # client to manage your files in Uptobox
 
 * Move, copy, rename, delete, upload, download, share files folders
