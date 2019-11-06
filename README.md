@@ -1,4 +1,3 @@
-# Uptobox-Client
 # client to manage your files in Uptobox
 
 * [x] Move, copy, rename, delete, upload, download, share files folders
@@ -9,8 +8,8 @@
 * [x] file public/private
 * [x] Search files
 * [x] Remote upload (url upload)
-* [ ] Move folder
-* [ ] Copy folder
+* [x] Move/Copy folder
+* [ ] Download folder
 
 `Download:`
 [https://github.com/loudKode/Uptobox-Client/releases](https://github.com/loudKode/Uptobox-Client/releases)<br>
