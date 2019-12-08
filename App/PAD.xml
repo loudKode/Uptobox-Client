@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>AppVisor 1.0.43</MASTER_PAD_EDITOR>
+    <MASTER_PAD_EDITOR_URL>http://publisher.appvisor.com</MASTER_PAD_EDITOR_URL>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD(TM) 2004 Association of Software Professionals (ASP)http://www.asp-shareware.org/pad is a data set standard and specification that is commercialsoftware publishers to disseminate certified information about their software application. The PAD format is copyright of the ASP and cannot be used without the formal licensing and permission of both the Association of Software Professionals and its agent AppVisor.com.</MASTER_PAD_INFO>
+    <CERTIFIED>Y</CERTIFIED>
+    <CERTIFICATE_ID>CRT-230096688UTB</CERTIFICATE_ID>
+    <CERTIFICATE_LICENSE>http://repository.appvisor.com/crt-230096688utb</CERTIFICATE_LICENSE>
+    <MASTER_PAD_URL>http://software.submission.gsa-online.de/</MASTER_PAD_URL>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+    <PublisherID>pid-e500ff18bd90</PublisherID>
+    <BrandID>bid-f500ea1dcd90</BrandID>
+    <Company_Name>DeQmaTech</Company_Name>
+    <Country>Hungary</Country>
+    <State_Province>Balmaz</State_Province>
+    <City_Town>Debrecen</City_Town>
+    <Zip_Postal_Code>44576</Zip_Postal_Code>
+    <Address_1>Hungary, Debrecen, Balmaz 14</Address_1>
+    <Address_2></Address_2>
+    <Company_WebSite_URL>https://loudkode.github.io/</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_First_Name>James</Contact_First_Name>
+      <Contact_Last_Name>Heck</Contact_Last_Name>
+      <Contact_Email>jamesheck2019@protonmail.com</Contact_Email>
+      <Author_First_Name>James</Author_First_Name>
+      <Author_Last_Name>Heck</Author_Last_Name>
+      <Author_Email>jamesheck2019@protonmail.com</Author_Email>
+      <Contact_Phone></Contact_Phone>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>jamesheck2019@protonmail.com</Sales_Email>
+      <Support_Email>jamesheck2019@protonmail.com</Support_Email>
+      <General_Email>jamesheck2019@protonmail.com</General_Email>
+      <Sales_Phone></Sales_Phone>
+      <Support_Phone></Support_Phone>
+      <General_Phone></General_Phone>
+      <Fax_Phone></Fax_Phone>
+    </Support_Info>
+    <LinkedinPage></LinkedinPage>
+    <TwitterCompanyPage></TwitterCompanyPage>
+    <FacebookCompanyPage></FacebookCompanyPage>
+  </Company_Info>
+  <Program_Info>
+    <AppID>app-03003dfb3UTB</AppID>
+    <Program_Name>Uptobox Client</Program_Name>
+    <Program_Version>1.7.4.0</Program_Version>
+    <Program_Release_Month>12</Program_Release_Month>
+    <Program_Release_Day>07</Program_Release_Day>
+    <Program_Release_Year>2019</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Category_Class>Network &amp; Internet::File Sharing/Peer to Peer</Program_Category_Class>
+    <Program_Specific_Category></Program_Specific_Category>
+    <Program_Categories>Network &amp; Internet::File Sharing/Peer to Peer, Misc. Telecommunications Utilities, Internet</Program_Categories>
+    <Program_Release_Status>Major Update</Program_Release_Status>
+    <Program_Install_Support>No Install Support</Program_Install_Support>
+    <Program_Target_Platform>Windows</Program_Target_Platform>
+    <Program_OS_Support>WinXP,Win7 x32,Win7 x64,Windows 8,Windows 10,WinOther,WinVista,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Ultimate,WinVista x64,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64,Windows Vista Ultimate x64</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Change_Info>-parsing users</Program_Change_Info>
+    <Program_System_Requirements>Microsoft .NET Framework 4.5.2</Program_System_Requirements>
+    <Limitations>No limitations</Limitations>
+    <Awards></Awards>
+    <File_Info>
+      <File_Size_Bytes>26928128</File_Size_Bytes>
+      <File_Size_K>26297</File_Size_K>
+      <File_Size_MB>25.68</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+      <Expire_Count></Expire_Count>
+      <Expire_Based_On></Expire_Based_On>
+      <Expire_Year></Expire_Year>
+      <Expire_Other_Info></Expire_Other_Info>
+      <Expire_Month></Expire_Month>
+      <Expire_Day></Expire_Day>
+    </Expire_Info>
+    <Includes_JAVA_VM></Includes_JAVA_VM>
+    <Includes_DirectX></Includes_DirectX>
+    <Includes_VB_Runtime></Includes_VB_Runtime>
+  </Program_Info>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://github.com/loudKode/Uptobox-Client/wiki</Application_Info_URL>
+      <Application_Order_URL></Application_Order_URL>
+      <Application_Screenshot_URL>https://raw.githubusercontent.com/loudKode/Uptobox-Client/master/App/Screens/001_800x600.png</Application_Screenshot_URL>
+      <Application_Icon_URL>https://raw.githubusercontent.com/loudKode/Uptobox-Client/master/App/Screens/icon.png</Application_Icon_URL>
+      <Application_XML_File_URL>http://repository.appvisor.com/app-03003dfb34b7/site-01/Dailymotion_Client_pad.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/loudKode/Dailymotion-Client/releases/download/2.0.0.3/Dailymotion.Client.v2.0.0.3.7z</Primary_Download_URL>
+      <Secondary_Download_URL>https://bitbucket.org/JamesHeck/dailymotion-client/downloads/Dailymotion_Client_v2.0.0.3.7z</Secondary_Download_URL>
+      <Additional_Download_URL_1></Additional_Download_URL_1>
+      <Additional_Download_URL_2></Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>upload,download,share,manage,cloud,video,playlist</Keywords>
+      <Char_Desc_45>client to manage your videos in Dailymotion</Char_Desc_45>
+      <Char_Desc_80>Client to manage, upload, download, extract your videos in dailymotion.com</Char_Desc_80>
+      <Char_Desc_250>you get access to your subscriptions, your playlists, your liked videos, your watch history, and your favorites. Additionally, Dailymotion Client lists out all your subscriptions beneath, allowing you to rearrange them at will, while also displaying</Char_Desc_250>
+      <Char_Desc_450>you get access to your subscriptions, your playlists, your liked videos, your watch history, and your favorites. Additionally, Dailymotion Client lists out all your subscriptions beneath, allowing you to rearrange them at will, while also displaying the number of new videos attached to those channels</Char_Desc_450>
+      <Char_Desc_2000>you get access to your subscriptions, your playlists, your liked videos, your watch history, and your favorites. Additionally, Dailymotion Client lists out all your subscriptions beneath, allowing you to rearrange them at will, while also displaying the number of new videos attached to those channels
+
+ upload local videos
+ upload remote videos
+ watch videos in (144p-240p-380p-480p-720p)
+ generate direct mp4 video links
+ share videos
+ edit video settings
+ add video tags
+ delete video
+ Send public video from dailymotion account to Supported Cloud Services with ability to specify transferred video resolution
+ extract playlist content
+ Create, Delete, Edit Playlist
+ Import a playlist to your Account
+ Add video/s To playlist
+ Parsing User Playlists
+ Clone user videos to your account
+ Download playlist
+ detect fake videos
+ search videos</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+  <Permissions>
+    <Distribution_Permissions>The free version of Dailymotion Client can be freely distributed over the internet in an unchanged form</Distribution_Permissions>
+    <EULA>The free version of Dailymotion Client can be freely distributed over the internet in an unchanged form</EULA>
+  </Permissions>
+  <Affiliates>
+    <Affiliates_Regsoft_Order_Page></Affiliates_Regsoft_Order_Page>
+    <Affiliates_Regsoft_Vendor_ID></Affiliates_Regsoft_Vendor_ID>
+    <Affiliates_Regsoft_Product_ID></Affiliates_Regsoft_Product_ID>
+    <Affiliates_FORM></Affiliates_FORM>
+    <Affiliates_FORM_VER></Affiliates_FORM_VER>
+    <Affiliates_VERSION></Affiliates_VERSION>
+    <Affiliates_URL></Affiliates_URL>
+    <Affiliates_Information_Page></Affiliates_Information_Page>
+    <Affiliates_Avangate_Order_Page></Affiliates_Avangate_Order_Page>
+    <Affiliates_Avangate_Vendor_ID></Affiliates_Avangate_Vendor_ID>
+    <Affiliates_Avangate_Product_ID></Affiliates_Avangate_Product_ID>
+    <Affiliates_Avangate_Maximum_Commission_Rate></Affiliates_Avangate_Maximum_Commission_Rate>
+    <Affiliates_BlueSnap_Order_Page></Affiliates_BlueSnap_Order_Page>
+    <Affiliates_BlueSnap_Vendor_ID></Affiliates_BlueSnap_Vendor_ID>
+    <Affiliates_BlueSnap_Product_ID></Affiliates_BlueSnap_Product_ID>
+    <Affiliates_BlueSnap_Maximum_Commission_Rate></Affiliates_BlueSnap_Maximum_Commission_Rate>
+    <Affiliates_BMTMicro_Order_Page></Affiliates_BMTMicro_Order_Page>
+    <Affiliates_BMTMicro_Vendor_ID></Affiliates_BMTMicro_Vendor_ID>
+    <Affiliates_BMTMicro_Product_ID></Affiliates_BMTMicro_Product_ID>
+    <Affiliates_BMTMicro_Maximum_Commission_Rate></Affiliates_BMTMicro_Maximum_Commission_Rate>
+    <Affiliates_eSellerate_Order_Page></Affiliates_eSellerate_Order_Page>
+    <Affiliates_eSellerate_Vendor_ID></Affiliates_eSellerate_Vendor_ID>
+    <Affiliates_eSellerate_Product_ID></Affiliates_eSellerate_Product_ID>
+    <Affiliates_eSellerate_Maximum_Commission_Rate></Affiliates_eSellerate_Maximum_Commission_Rate>
+    <Affiliates_Regnet_Order_Page></Affiliates_Regnet_Order_Page>
+    <Affiliates_Regnet_Vendor_ID></Affiliates_Regnet_Vendor_ID>
+    <Affiliates_Regnet_Product_ID></Affiliates_Regnet_Product_ID>
+    <Affiliates_Regnet_Maximum_Commission_Rate></Affiliates_Regnet_Maximum_Commission_Rate>
+    <Affiliates_Regsoft_Maximum_Commission_Rate></Affiliates_Regsoft_Maximum_Commission_Rate>
+    <Affiliates_ShareIt_Order_Page></Affiliates_ShareIt_Order_Page>
+    <Affiliates_ShareIt_Vendor_ID></Affiliates_ShareIt_Vendor_ID>
+    <Affiliates_ShareIt_Product_ID></Affiliates_ShareIt_Product_ID>
+    <Affiliates_ShareIt_Maximum_Commission_Rate></Affiliates_ShareIt_Maximum_Commission_Rate>
+  </Affiliates>
+  <NewsFeed>
+    <NewsFeed_FORM></NewsFeed_FORM>
+    <NewsFeed_VERSION></NewsFeed_VERSION>
+    <NewsFeed_URL></NewsFeed_URL>
+    <NewsFeed_DESCRIPTION></NewsFeed_DESCRIPTION>
+    <NewsFeed_Feed_URL></NewsFeed_Feed_URL>
+    <NewsFeed_Type></NewsFeed_Type>
+    <NewsFeed_Site_URL></NewsFeed_Site_URL>
+    <NewsFeed_Author_First_Name>James</NewsFeed_Author_First_Name>
+    <NewsFeed_Author_Last_Name>Heck</NewsFeed_Author_Last_Name>
+    <NewsFeed_Author_Email>jamesheck2019@protonmail.com</NewsFeed_Author_Email>
+    <NewsFeed_Language></NewsFeed_Language>
+    <NewsFeed_Title></NewsFeed_Title>
+    <NewsFeed_Description_70></NewsFeed_Description_70>
+    <NewsFeed_Description_250></NewsFeed_Description_250>
+    <NewsFeed_Purpose></NewsFeed_Purpose>
+    <NewsFeed_Site_Name></NewsFeed_Site_Name>
+  </NewsFeed>
+  <Press_Release>
+    <Press_Release></Press_Release>
+    <Headline></Headline>
+    <Summary></Summary>
+    <Press_Release_Plain></Press_Release_Plain>
+  </Press_Release>
+  <Site>
+    <Site_FORM></Site_FORM>
+    <Site_VERSION></Site_VERSION>
+    <Site_DESCRIPTION></Site_DESCRIPTION>
+    <Site_Site_Title></Site_Site_Title>
+    <Site_Site_URL></Site_Site_URL>
+    <Site_Keywords></Site_Keywords>
+    <Site_Description_100></Site_Description_100>
+    <Site_Description_250></Site_Description_250>
+    <Site_Description_450></Site_Description_450>
+    <Site_Contact_First_Name>James</Site_Contact_First_Name>
+    <Site_Contact_Last_Name>Heck</Site_Contact_Last_Name>
+    <Site_Contact_Email>jamesheck2019@protonmail.com</Site_Contact_Email>
+  </Site>
+  <Download_Link_Points_To_Non_Binary_File>Y</Download_Link_Points_To_Non_Binary_File>
+  <Dynamic_PAD>
+    <General>
+      <DP_Pad_Enabled>TRUE</DP_Pad_Enabled>
+      <DP_AtFormFill_Enabled>TRUE</DP_AtFormFill_Enabled>
+      <DP_Distributive_Enabled>TRUE</DP_Distributive_Enabled>
+      <DP_Script_Base_URL>http://repository.appvisor.com/</DP_Script_Base_URL>
+      <DP_Pad_Mask>Dailymotion_Client_pad.xml</DP_Pad_Mask>
+      <DP_Distributive_Primary_URL>https://github.com/loudKode/Dailymotion-Client/releases/download/2.0.0.3/Dailymotion.Client.v2.0.0.3.7z</DP_Distributive_Primary_URL>
+      <DP_Distributive_Mask>Dailymotion.Client.v2.0.0.3.7z</DP_Distributive_Mask>
+    </General>
+  </Dynamic_PAD>
+</XML_DIZ_INFO>
